@@ -76,3 +76,4 @@ Check out the [deployment documentation](https://nuxt.com/docs/getting-started/d
 # nuxt-configurator
 # nuxt-configurator
 # nuxt-sketchfab-configurator
+# nuxt-sketchfab-configurator
